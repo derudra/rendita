@@ -136,7 +136,7 @@
     display: none;
     left: 0;
     overflow-x: hidden;
-    position: fixed;
+    
     top: 0;
     transform: translateX(-100%);
     -ms-transform: translateX(-100%);
